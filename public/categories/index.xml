@@ -5,12 +5,12 @@
     
     
     
-    <link>adamesmail.com/categories/</link>
+    <link>https://adamesmail.com/categories/</link>
     <description>Recent content in Categories on Adam Esmail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="adamesmail.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adamesmail.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>adamesmail.com/</loc>
+    <loc>https://adamesmail.com/</loc>
   </url><url>
-    <loc>adamesmail.com/categories/</loc>
+    <loc>https://adamesmail.com/categories/</loc>
   </url><url>
-    <loc>adamesmail.com/tags/</loc>
+    <loc>https://adamesmail.com/tags/</loc>
   </url>
 </urlset>

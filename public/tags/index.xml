@@ -5,12 +5,12 @@
     
     
     
-    <link>adamesmail.com/tags/</link>
+    <link>https://adamesmail.com/tags/</link>
     <description>Recent content in Tags on Adam Esmail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="adamesmail.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adamesmail.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
