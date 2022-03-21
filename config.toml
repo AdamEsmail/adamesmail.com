@@ -1,4 +1,4 @@
-baseurl = "adamesmail.com"
+baseurl = "https://adamesmail.com"
 languageCode = "en-gb"
 theme = "hello-friend"
 paginate = 5
